@@ -58,7 +58,7 @@ The project code base is mainly located within the `src` folder. This folder is 
 ## Possible future improvements.
 
 1. Adding email and phone no validation.
-2. With current proposed schema, application can be used with more schema based Database such as MySql or SQLServer.
-3. Implementing logger machanism for debug and analytics purpose.
+2. With current proposed schema, application can be more suitable with schema based Database such as MySql or SQLServer.
+3. Implementing logger machanism for debugging and analytics purpose.
 
 
